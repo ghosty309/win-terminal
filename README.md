@@ -3,7 +3,7 @@
 [![Terminal Build Status](https://dev.azure.com/shine-oss/terminal/_apis/build/status%2FTerminal%20CI?branchName=main)](https://dev.azure.com/shine-oss/terminal/_build/latest?definitionId=1&branchName=main)
 
 # Welcome to the Windows Terminal, Console and Command-Line repo
-### This is my version of the Windows Terminal.
+### This is just a fork, if you search for the original, please go to [microsoft/terminal](https://github.com/microsoft/terminal) (i putted a direct link).
 
 <details>
   <summary><strong>Table of Contents</strong></summary>
